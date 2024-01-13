@@ -11,7 +11,7 @@
 
 - Ask me about **pandas, seaborn, Python, etc.**
 
-- 📫 How to reach me **Shashank.tiwary@icloud.com or tiwarishashank2003@gmai**
+- 📫 How to reach me **Shashank.tiwary@icloud.com or tiwarishashank2003@gmail.com**
 
   
 
